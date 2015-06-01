@@ -5,7 +5,7 @@
 # 
 # Week 3 Programming Homework Assignment Number 2
 # Author: tim
-# Function: pollutantmean
+# Function: makeCacheMatrix and cacheSolve
 ###############################################################################
 
 ## Function makeCacheMatrix creates a special "matrix" object that can cache its inverse.
